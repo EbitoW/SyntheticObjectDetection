@@ -1,2 +1,2 @@
-# SyntheticObjectDetection
-Exploring the effectiveness of object detection training in virtual environments
+# Synthetic Object Detection
+This repository contains a jupyter notebook with the experiments performed for the thesis: "Exploring the Effectiveness of Object Detection Training in Virtual Environments". The trained models are also included in the runs directory.
