@@ -1,0 +1,8 @@
+path: /home/tobie/Documents/Afstudeerproject bachelor Informatica/Model_analysis/Converted_data/Combined_300r_300s_sunAngle_dark_v2 # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+test: images/test # test images (optional)
+
+names:
+  0: Football
+  1: Nao_robot
